@@ -6,7 +6,7 @@ categoria realizado en el curso de java para ONE EDUCATION ALURA ORACLE
 
 
 
-https://user-images.githubusercontent.com/91780371/220251485-9dbff677-041a-484a-9c2d-0544c347453a.mp4
+
 
 
 
