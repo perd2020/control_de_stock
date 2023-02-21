@@ -4,7 +4,12 @@ CON UNA APP CREADA EN java SWING para uso academico.
 Mediante esta aplicaion se puede hacer el ingreso, modificacion o eliminacion de articulos separados por 
 categoria realizado en el curso de java para ONE EDUCATION ALURA ORACLE
 
+
+
 https://user-images.githubusercontent.com/91780371/220251485-9dbff677-041a-484a-9c2d-0544c347453a.mp4
+
+
+
 ![Media Player 21_2_2023 1_28_22 a  m](https://user-images.githubusercontent.com/91780371/220253646-7bae2077-829e-46d6-b82d-544123132656.png)
 
 
@@ -14,6 +19,10 @@ Utilice laConnection Factory para anexar a un pool de conexiones y el uso de C3P
 
 
 
+
+https://user-images.githubusercontent.com/91780371/220255719-20b156f9-e136-4cec-8eb0-781ec41e94c5.mp4
+
+
 Ademas aprendimos el uso de la API JDBC,ya que su  Transparencia a la hora de elegir la base de datos es de mucha ayuda, en esta app se utilizo el DRIVER DE MYSQL 
 
 ![MySQL Workbench 21_2_2023 1_34_19 a  m](https://user-images.githubusercontent.com/91780371/220248617-3e86096c-bc10-4a7d-ba6d-ac7b1fbb4e68.png)
@@ -21,7 +30,7 @@ Ademas aprendimos el uso de la API JDBC,ya que su  Transparencia a la hora de el
 
 Ademas de interactuar con la base de datos a nivel local, tambien se hizo a traves de la consola de MYSQL
 
-
+**
 
 https://user-images.githubusercontent.com/91780371/220254053-e5fc0dc3-8114-4fb7-9aaf-c34bc243c290.mp4
 
