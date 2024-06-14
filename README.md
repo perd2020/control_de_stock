@@ -1,5 +1,5 @@
 # control_de_stock
-aplicacion realizada en java  que mediante la  JDBC  de java se conecta a una base de datos MySQL,
+CRUD  realizada en java  para app que mediante la  JDBC  de java se conecta a una base de datos MySQL,
 CON UNA APP CREADA EN java SWING para uso academico.
 Mediante esta aplicaion se puede hacer el ingreso, modificacion o eliminacion de articulos separados por 
 categoria realizado en el curso de java para ONE EDUCATION ALURA ORACLE
